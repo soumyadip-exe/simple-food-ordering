@@ -17,9 +17,3 @@ This is a simple web-based food ordering system that allows users to browse the 
 - **foood_ordering.sql**: SQL file for creating database tables.
 - **style.css**: Stylesheet for the UI.
 - **rr.png**: Logo for the application.
-
-## Installation Guide
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/your-repository.git
